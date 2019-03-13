@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  dockertestapi:
+    image: dockertestapi
+    build:
+      context: .
+      dockerfile: DockerTestApi\Dockerfile

@@ -6,3 +6,5 @@
 /obj
 /DockerTestApi/bin/Debug/netcoreapp2.2
 /.vs/AzureDevOpsHackaton/v15
+/DockerAPI/bin/Debug/netcoreapp2.0
+/DockerAPI/obj

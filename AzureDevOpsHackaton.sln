@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerTestApi", "DockerTestApi\DockerTestApi.csproj", "{9BB3D3F5-24AD-4005-A0DD-361AB152190C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerAPI", "DockerAPI\DockerAPI.csproj", "{F33B4909-4074-4B91-BA7F-33C53D3DFC85}"
 EndProject
-Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{346C86CD-84C5-47AE-962E-FED19ACC9645}"
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{50AEA065-1CC0-496A-9E0B-59D5F140533E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9BB3D3F5-24AD-4005-A0DD-361AB152190C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9BB3D3F5-24AD-4005-A0DD-361AB152190C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9BB3D3F5-24AD-4005-A0DD-361AB152190C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9BB3D3F5-24AD-4005-A0DD-361AB152190C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{346C86CD-84C5-47AE-962E-FED19ACC9645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{346C86CD-84C5-47AE-962E-FED19ACC9645}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{346C86CD-84C5-47AE-962E-FED19ACC9645}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{346C86CD-84C5-47AE-962E-FED19ACC9645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F33B4909-4074-4B91-BA7F-33C53D3DFC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33B4909-4074-4B91-BA7F-33C53D3DFC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33B4909-4074-4B91-BA7F-33C53D3DFC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33B4909-4074-4B91-BA7F-33C53D3DFC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50AEA065-1CC0-496A-9E0B-59D5F140533E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50AEA065-1CC0-496A-9E0B-59D5F140533E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50AEA065-1CC0-496A-9E0B-59D5F140533E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50AEA065-1CC0-496A-9E0B-59D5F140533E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
